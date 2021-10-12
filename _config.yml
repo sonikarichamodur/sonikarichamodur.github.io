@@ -1,5 +1,5 @@
 # Name of website
-title: Sonika Modur
+title: Research Notebook
 
 # Name to show in the footer
 author: Sonika Modur
@@ -13,7 +13,7 @@ navbar-links:
     - Background: 
     - Method: 
     - Results: 
-  Contact: 
+  Contact: "contact"
 
 #avatar: "/assets/img/avatar-icon.png"
 #round-avatar: true
