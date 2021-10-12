@@ -9,10 +9,10 @@ author: Sonika Modur
 navbar-links:
   About me: "aboutme"
   Research project: 
-    - Abstract: 
-    - Background: 
-    - Method: 
-    - Results: 
+    - Abstract: "abstract"
+    - Background: "background"
+    - Method: "method"
+    - Results: "results"
   Contact: "contact"
 
 #avatar: "/assets/img/avatar-icon.png"
