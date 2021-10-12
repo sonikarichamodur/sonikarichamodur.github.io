@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sonika Modur
 ---
+I am a student researcher and an avid reader. Outside of academics, I love to garden. The many mushrooms I have spotted in my gardening endeavors make me a strong believer of using mushrooms to their fullest potential. They are a resource so abundantly available right in our backyards!
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+For those who are curious, my favorite mushrooms are baby bella and portobello. Rest assured, both are nontoxic. 
