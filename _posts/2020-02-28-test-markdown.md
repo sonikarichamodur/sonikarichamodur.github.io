@@ -3,7 +3,7 @@ layout: post
 title: Obtaining the dataset
 subtitle: Dataset specifics included
 cover-img: /assets/img/Mushroom Pic.jpg
-thumbnail-img: /assets/img/Mushroom Pic.png
+thumbnail-img: /assets/img/Mushroom Pic.jpg
 share-img: /assets/img/Mushroom Pic.jpg
 gh-repo: sonikarichamodur/sonikarichamodur.github.io
 gh-badge: [star, fork, follow]
