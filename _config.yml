@@ -15,8 +15,11 @@ navbar-links:
     - Results: "results"
   Contact: "contact"
 
-#avatar: "/assets/img/avatar-icon.png"
-#round-avatar: true
+# Image to show in the navigation bar - works best with a square image
+avatar: "/assets/img/mushroom-avatar.jpg"
+
+round-avatar: true
+
 
 # --- Footer social media links --- #
 
