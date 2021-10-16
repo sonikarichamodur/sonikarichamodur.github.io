@@ -7,6 +7,7 @@ title: Method
 - 48% poisonous, 52% nonpoisonous
 - 22 attributes
 - 23 features 
+
 ### Step 2: Data preprocessing
 
 - Handling missing data (imputation) 
