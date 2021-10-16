@@ -103,7 +103,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
-  - README.md
+ # - README.md
   - screenshot.png
   - docs/
 

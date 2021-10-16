@@ -10,11 +10,11 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://beautifuljekyll.com"
   spec.license       = "MIT"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|LICENSE|README|feed|404|_data|tags|staticman)}i) }
+  # spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|LICENSE|README|feed|404|_data|tags|staticman)}i) }
 
   spec.metadata      = {
     "changelog_uri"     => "https://beautifuljekyll.com/updates/",
-    "documentation_uri" => "https://github.com/daattali/beautiful-jekyll#readme"
+    # "documentation_uri" => "https://github.com/daattali/beautiful-jekyll#readme"
   }
 
   spec.add_runtime_dependency "jekyll", "~> 3.8"
