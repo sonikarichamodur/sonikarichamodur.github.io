@@ -2,4 +2,4 @@
 layout: page
 title: Contact me
 ---
-Feel free to message me through GitHub at [https://github.com/sonikarichamodur].
+Feel free to email me at 882157@lcps.org about anything related to my research work. 
