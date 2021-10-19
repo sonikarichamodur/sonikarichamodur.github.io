@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/Yellow Mushroom.jpg
 share-img: /assets/img/Yellow Mushroom.jpg
 tags: [keywordstosearch]
 gh-repo: sonikarichamodur/sonikarichamodur.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [star, follow]
 tags: [dataset]
 comments: true
 ---

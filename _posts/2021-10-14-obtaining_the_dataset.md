@@ -6,7 +6,7 @@ cover-img: /assets/img/Mushroom Pic.jpg
 thumbnail-img: /assets/img/Mushroom Pic.jpg
 share-img: /assets/img/Mushroom Pic.jpg
 gh-repo: sonikarichamodur/sonikarichamodur.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [star, follow]
 tags: [dataset]
 comments: true
 ---
