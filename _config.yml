@@ -60,7 +60,7 @@ link-col: "#23423D"
 hover-col: "#B7CDBE"
 footer-col: "#E9CCB2"
 footer-text-col: "#23423D"
-footer-link-col: "#E9CCB2"
+footer-link-col: "#B7CDBE"
 footer-hover-col: "#B7CDBE"
 
 #mobile-theme-col: "#0085A1"
