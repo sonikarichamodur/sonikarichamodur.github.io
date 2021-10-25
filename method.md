@@ -11,7 +11,11 @@ title: Method
 ### Step 2: Data preprocessing
 
 - Handling missing data (imputation) 
+{: .box-note}
+**Note:** Missing values are located in the stalk root feature and are denoted with a ? in the dataset.
 - Encoding categorical data (one-hot encoding)
+{: .box-note}
+**Note:** All variables are categorical, as can be seen [here](https://sonikarichamodur.github.io/2021-10-14-obtaining_the_dataset/)
 - Splitting data into training and test set (80:20)
 - Feature scaling (standardization)
 
@@ -24,6 +28,7 @@ title: Method
 ### Step 4: Evaluate classification models performance
 
 - Confusion matrices for each binary classifier
+![Alt text](/assets/img/Confusion Matrix.jpg)
 
 ### Step 5: Conduct clustering anlaysis
 
