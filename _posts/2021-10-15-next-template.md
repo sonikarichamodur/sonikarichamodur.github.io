@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Next progress checkpoint
-subtitle: Updates on progress displayed like so
+title: Updates on progress displayed like so
+subtitle: Progress Report 2
 cover-img: /assets/img/Yellow Mushroom.jpg
 thumbnail-img: /assets/img/Yellow Mushroom.jpg
 share-img: /assets/img/Yellow Mushroom.jpg

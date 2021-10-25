@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Obtaining the dataset
-subtitle: Dataset specifics included
+subtitle: Progress Report 1
 cover-img: /assets/img/Mushroom Pic.jpg
 thumbnail-img: /assets/img/Mushroom Pic.jpg
 share-img: /assets/img/Mushroom Pic.jpg
