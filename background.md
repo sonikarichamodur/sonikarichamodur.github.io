@@ -2,7 +2,17 @@
 layout: page
 title: Background
 ---
-![Alt text](/assets/img/Slide 1.jpg) ![Alt text](/assets/img/Slide 2.jpg)
-![Alt text](/assets/img/Slide 4.jpg) ![Alt text](/assets/img/Slide 5.jpg)
-![Alt text](/assets/img/Slide 7.jpg) ![Alt text](/assets/img/Slide 8.jpg)
+<p float="left">
+    <img src="/assets/img/Slide 1.jpg" width="100" />
+    <img src="/assets/img/Slide 2.jpg" width="100" />
+</p>
 
+<p float="left">
+    <img src="/assets/img/Slide 4.jpg" width="100" />
+    <img src="/assets/img/Slide 5.jpg" width="100" />
+</p>
+
+<p float="left">
+    <img src="/assets/img/Slide 7.jpg" width="100" />
+    <img src="/assets/img/Slide 8.jpg" width="100" />
+</p>
