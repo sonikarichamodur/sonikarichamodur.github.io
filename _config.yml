@@ -7,12 +7,13 @@ author: Sonika Modur
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About me: "aboutme"
   Research project: 
     - Abstract: "abstract"
     - Background: "background"
     - Method: "method"
     - Results: "results"
+  Progress Reports: "progressreports"  
+  About: "about"
   Contact: "contact"
 
 # Image to show in the navigation bar - works best with a square image
