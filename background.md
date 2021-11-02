@@ -16,7 +16,7 @@ layout: page
 
 ## <font color="#E34000"><b>What are the attributes of a mushroom?</b></font>
 
-Mushroom caps typically come in six shapes and four textures:
+Mushroom caps typically come in <font color="#4980e6"><b>six shapes</b></font> and <font color="#4980e6"><b>four</b></font> textures:
 <p float="left">
    <img src="/assets/img/shapes.jpg" width="300" />
    <img src="/assets/img/textures.jpg" width="300" />
