@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Toxicity detection in gilled mushrooms using          machine learning
+title: Toxicity detection in gilled mushrooms using machine learning
 subtitle: Sonika Modur
 ---
 ## The goals with this research are to: 
@@ -12,8 +12,8 @@ subtitle: Sonika Modur
 _This research has impacts in cutting-edge pharmacology and saving lives by helping poison control centers._
  
 ![alt-text-1](/assets/img/different-mushrooms.jpeg "title-1") 
- 
-## Pharmacology
+
+## <font color="red">Pharmacology</font>
  
 Due to its anticancer properties and prevalence in alternative medicine, pharmacologists are working to **extract beta glucans from nontoxic gilled mushrooms to develop modern medicine**. Pharmacologists are on the lookout for species of gilled mushrooms whose beta glucans are more easy to extract, and a mushroom toxicity classifier could help them narrow their research when exploring the estimated _2-3 million unidentified mushroom species._
  
