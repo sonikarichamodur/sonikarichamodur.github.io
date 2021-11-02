@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![alt-text-1](/assets/img/Title.png "title") 
+![alt-text-1](/assets/img/TitleMushroom.png "title") 
 
 ## The goals with this research are to: 
  
