@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Toxicity detection in gilled mushrooms using machine learning
-subtitle: Sonika Modur
 ---
+![alt-text-1](/assets/img/Title.jpg "title") 
+
 ## The goals with this research are to: 
  
 - Build a **binary classifier** that can take the attributes of a mushroom as input and output whether the mushroom contains toxic chemicals or not.
@@ -11,7 +11,7 @@ subtitle: Sonika Modur
  
 _This research has impacts in cutting-edge pharmacology and saving lives by helping poison control centers._
  
-![alt-text-1](/assets/img/different-mushrooms.jpeg "title-1") 
+![alt-text-1](/assets/img/different-mushrooms.jpeg "mushrooms") 
 
 ## <font color="#E34000">Pharmacology</font>
  
