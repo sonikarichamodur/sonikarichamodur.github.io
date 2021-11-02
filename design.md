@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Method
+title: Experimental Design
 ---
 ### Step 1: Obtain dataset
 - 8124 instances of mushroom data
