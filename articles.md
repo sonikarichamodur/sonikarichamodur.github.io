@@ -1,5 +1,4 @@
 ---
 layout: page
-title: Article Search
-subtitle: Sonika Modur
 ---
+![alt-text-1](/assets/img/ArticleSearch.png "title")

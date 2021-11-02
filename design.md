@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![alt-text-1](/assets/img/ExperimentalDesign.png "title") 
+![alt-text-1](/assets/img/ED2.png "title") 
 
 ### Step 1: Obtain dataset
 - 8124 instances of mushroom data

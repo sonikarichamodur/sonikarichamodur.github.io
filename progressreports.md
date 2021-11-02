@@ -1,4 +1,4 @@
 ---
 layout: reports
-title: Progress Reports
 ---
+![alt-text-1](/assets/img/PR2.png "title")

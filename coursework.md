@@ -1,5 +1,4 @@
 ---
 layout: page
-title: Coursework
-subtitle: Sonika Modur
 ---
+![alt-text-1](/assets/img/Coursework.png "title")

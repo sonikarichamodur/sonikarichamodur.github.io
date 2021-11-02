@@ -1,5 +1,4 @@
 ---
 layout: page
-title: Meetings with Scientists 
-subtitle: Sonika Modur
 ---
+![alt-text-1](/assets/img/Meetings.png "title")
