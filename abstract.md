@@ -13,7 +13,7 @@ The research takes on a novel approach by building binary classifiers from <b>al
 
 ## <font color="#E34000"><b>Procedural summary</b></font>
 
-The algorithms tested separately to build the <u>binary classifiers</u> are <b>Random Forest (RF), Classification and Regression Tree (CART), and K-Nearest Neighbors (K-NN)</b>. The algorithms tested for clustering analysis will be <b>K-means</b> clustering and <b>hierarchical</b> clustering. The choices of classification and clustering algorithms serve as the independent variable. The dependent variables will be the percent accuracy of each classifier determined from confusion matrices, and the accuracy rate of each classifier determined from cumulative accuracy profiles. 
+The algorithms tested separately to build the <u>binary classifiers</u> are <font color="#6b9207"><b>Random Forest (RF), Logistic Regression, and K-Nearest Neighbors (K-NN)</b></font>. The algorithms tested for clustering analysis will be <b>K-means</b> clustering and <b>hierarchical</b> clustering. The choices of classification and clustering algorithms serve as the independent variable. The dependent variables will be the percent accuracy of each classifier determined from confusion matrices, and the accuracy rate of each classifier determined from cumulative accuracy profiles. 
 
 ## <font color="#E34000"><b>Benefits of using machine learning</b></font>
 
