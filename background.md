@@ -14,3 +14,13 @@ layout: page
 {: .box-note}
 **Note:** Chanterelles are nontoxic, so they do not need to be in the scope of the research.
 
+## <font color="#E34000"><b>What are the attributes of a mushroom?</b></font>
+
+Mushroom caps typically come in six shapes and four textures:
+<p float="left">
+   <img src="/assets/img/shapes.jpg" width="300" />
+   <img src="/assets/img/textures.jpg" width="300" />
+</p>
+
+
+
