@@ -5,7 +5,7 @@ layout: page
 
 ## <font color="#E34000"><b>Problem statement and significance</b></font>
 
-This research project seeks to answer <font color="#4980e6"><b>how machine learning models can be used to detect toxicity in gilled mushrooms (Agaricacaeae fungi)</b></font>. Due to the <u>anticancer properties</u> of its beta glucans, <font color="#6b9207"><b>pharmaceuticals</b></font> are working find mushrooms whose beta glucans are more easily extractable to <font color="#6b9207"><b>develop modern medicines</b></font>. A machine learning model that detects the presence of toxic chemicals in a mushroom can <font color="#4980e6"><b>help pharmacologists identify nontoxic mushrooms</b></font> to develop medicines safe for consumption, especially when they encounter one of the estimated *2-3 million* unidentified mushroom species. 
+This research project seeks to answer <font color="#4980e6"><b><u>how machine learning models can be used to detect toxicity in gilled mushrooms (Agaricacaeae fungi)</u></b></font>. Due to the <u>anticancer properties</u> of its beta glucans, <font color="#6b9207"><b>pharmaceuticals</b></font> are working find mushrooms whose beta glucans are more easily extractable to <font color="#6b9207"><b>develop modern medicines</b></font>. A machine learning model that detects the presence of toxic chemicals in a mushroom can <font color="#4980e6"><b>help pharmacologists identify nontoxic mushrooms</b></font> to develop medicines safe for consumption, especially when they encounter one of the estimated *2-3 million* unidentified mushroom species. 
 
 ## <font color="#E34000"><b>Uniqueness</b></font>
 
