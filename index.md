@@ -13,7 +13,9 @@ layout: page
 
 <font color="#6b9207"><b>This research has impacts in cutting-edge pharmacology and can save lives as a poison control resource.</b></font>
 
-<button type="button" style="color:#fff;background-color:#0d6efd;border-color:#0d6efd">Learn More</button> 
+<a href="https://sonikarichamodur.github.io/abstract/">
+    <button type="button" style="color:#fff;background-color:#0d6efd;border-color:#0d6efd">Learn More</button> 
+</a>
  
 
 
