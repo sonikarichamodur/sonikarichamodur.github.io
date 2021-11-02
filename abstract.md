@@ -1,5 +1,5 @@
 ---
 layout: page
 ---
-![alt-text-1](/assets/img/Abstract.png "title") 
+![alt-text-1](/assets/img/Abstract2.png "title") 
 Agaricaceae fungi are commonly termed as gilled mushrooms, consisting of many species that are either toxic or non-toxic to humans. Humans who ingest Agaricaceae fungi that contain toxic chemicals are susceptible to extreme sickness or in the most regrettable of cases, fatality. A vast majority of the human population fervently forage for Agaricaceae fungi due to its sought-after medicinal properties, albeit the formidable risks. Identifying the existence of toxic chemicals in an Agaricaceae fungus is a precarious task for humans, considering the lack of any perpetually accurate rules to abide by; therefore, machine learning models for determining the presence of toxic chemicals in Agaricaceae fungi are at the verge of becoming an indispensable tool for poison control centers. Accordingly, such machine learning models can contribute to substantially preventing people from contracting Agaricaceae fungi poisoning, increasing the speed and precision of the diagnosis for such poisoning, and assisting scientists in the safety of their pursuit for presently undocumented species of Agaricaceae fungi whose anticancer beta-glucans could be more conveniently extractable. 
