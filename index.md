@@ -1,5 +1,5 @@
 ---
 layout: page
-## Toxicity detection in gilled mushrooms using machine learning
+title: Toxicity detection in gilled mushrooms using machine learning
 subtitle: Sonika Modur
 ---
