@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Experimental Design
 ---
+![alt-text-1](/assets/img/ExperimentalDesign.png "title") 
+
 ### Step 1: Obtain dataset
 - 8124 instances of mushroom data
 - 48% poisonous, 52% nonpoisonous
