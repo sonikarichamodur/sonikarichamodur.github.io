@@ -28,8 +28,8 @@ p {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 100;
-  line-height: 1.1;
+  font-weight: 50;
+  line-height: 0.6;
 }
 h1 {
   font-size: 1.25rem;
