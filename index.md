@@ -11,7 +11,7 @@ layout: page
 - Use **clustering analysis** to identify combinations of mushroom attributes that are more likely to indicate toxicity.
 
 
-<font color="#6b9207"><b>This research has impacts in cutting-edge pharmacology and can save lives as a poison control resource.</b></font>
+<font color="#6b9207"><b>This research has impacts in <u>cutting-edge pharmacology</u> and can <u>save lives</u> as a poison control resource.</b></font>
 
 <a href="https://sonikarichamodur.github.io/abstract/">
     <button type="button" style="color:#fff;background-color:#0d6efd;border-color:#0d6efd">Learn More</button> 
