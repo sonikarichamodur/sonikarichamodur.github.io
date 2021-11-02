@@ -13,7 +13,7 @@ _This research has impacts in cutting-edge pharmacology and saving lives by help
  
 ## Pharmacology
  
-Due to its anticancer properties and prevalence in alternative medicine, pharmacologists are working to **extract beta glucans from nontoxic gilled mushrooms to develop modern medicine**. Pharmacologists are on the lookout for species of gilled mushrooms whose beta glucans are more easy to extract, and a mushroom toxicity classifier could help them narrow their research when exploring the estimated _2-3 million unidentified mushroom species._
+![alt-text-1](/assets/img/different-mushrooms.jpeg "title-1") Due to its anticancer properties and prevalence in alternative medicine, pharmacologists are working to **extract beta glucans from nontoxic gilled mushrooms to develop modern medicine**. Pharmacologists are on the lookout for species of gilled mushrooms whose beta glucans are more easy to extract, and a mushroom toxicity classifier could help them narrow their research when exploring the estimated _2-3 million unidentified mushroom species._
  
 ## Poison Control
  
