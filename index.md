@@ -12,6 +12,8 @@ layout: page
 
 
 <font color="#6b9207"><b>This research has impacts in cutting-edge pharmacology and can save lives as a poison control resource.</b></font>
+
+<button type="button" style="color:#4980e6">Learn More</button> 
  
 ![alt-text-1](/assets/img/different-mushrooms.jpeg "mushrooms") 
 
