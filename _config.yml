@@ -20,7 +20,7 @@ navbar-links:
   About: "about"
 
 # Image to show in the navigation bar - works best with a square image
-avatar: "/assets/img/mushroom-avatar.jpg"
+avatar: "/assets/img/site_avatar.jpg"
 
 round-avatar: true
 
