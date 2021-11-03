@@ -18,15 +18,15 @@ Above is a portion of how the dataset is set up, the <b>class</b> column being t
 
 <font color="#E34000"><b>Preprocessing requirements</b></font>
 
-- Handle missing data of stalk-root feature using imputation or data discretization.
-- Encode categorical data using one-hot encoding.
-- Split data into training and test sets (starting with 80:20 training:testing split)
+- Handle <u>missing data</u> of stalk-root feature using imputation or data discretization.
+- Encode <u>categorical data</u> using one-hot encoding.
+- <u>Split data</u> into training and test sets (starting with 80:20 training:testing split)
 - Feature scaling using standardization
 
 ## <font color="#E34000"><b>Step 2: Train binary classifiers</b></font>
-- <b>Random Forest</b>: starting value for the number of trees hyperparameter is 100
-- <b>Logistic Regression</b>: no hyperparameters to set
-- <b>K-Nearest Neighbors</b>: starting value for the k hyperparameter is 80
+- <font color="#4980e6"><b>Random Forest</b></font>: starting value for the number of trees hyperparameter is 100
+- <font color="#4980e6"><b>Logistic Regression</b></font>: no hyperparameters to set
+- <font color="#4980e6"><b>K-Nearest Neighbors</b></font>: starting value for the k hyperparameter is 80
 80 is the square root of the number of instances in the training set, assuming the 80:20 ratio. 
 
 
@@ -37,7 +37,7 @@ Above is a portion of how the dataset is set up, the <b>class</b> column being t
 
 ## <font color="#E34000"><b>Step 4: Conduct clustering analysis</b></font>
 
-- <b>k-means</b> clustering: implement the Elbow Method to find the number of clusters hyperparameter
-- <b>Hierarchical</b> clustering: no hyperparameters to set
+- <font color="#4980e6"><b>k-means</b></font> clustering: implement the Elbow Method to find the number of clusters hyperparameter
+- <font color="#4980e6"><b>Hierarchical</b></font> clustering: no hyperparameters to set
 
 
