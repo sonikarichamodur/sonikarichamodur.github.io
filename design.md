@@ -8,6 +8,7 @@ layout: page
 <font color="#E34000"><b>Dataset specifics</b></font>
 
 ![alt-text-1](/assets/img/Dataset.jpg "title") 
+
 Above is a portion of how the dataset is set up, the <b>class</b> column being the dependent variable vector.
 - Dataset taken from UCI Machine Learning Repository
 - 8124 instances of mushroom data
