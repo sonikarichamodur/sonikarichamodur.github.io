@@ -17,7 +17,7 @@ A toxic mushroom contains at least one of the following seven toxic chemicals: <
 
 ## <font color="#E34000"><b>What gives mushrooms its anticancer properties?</b></font>
 
-![alt-text-1](/assets/img/betaglucan2.png "betaglucan") 
+![alt-text-1](/assets/img/Beta glucan3.jpeg "betaglucan") 
 
 ## <font color="#E34000"><b>What are the attributes of a mushroom?</b></font>
 
