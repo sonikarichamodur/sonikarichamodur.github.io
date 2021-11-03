@@ -17,12 +17,7 @@ A toxic mushroom contains at least one of the following seven toxic chemicals: <
 
 ## <font color="#E34000"><b>What gives mushrooms its anticancer properties?</b></font>
 
-Each of the two hexose sugars pictured is a beta-d-glucose monosaccharide, and when bonded together by 1, 3 or 1, 6 <font color="#4980e6"><b>glycosidic bonds</b></font>, represented by the dashed lines, they make up beta-d-glucose polysaccharides, known as the <font color="#6b9207"><b>beta glucans</b></font> present in mushrooms. 
-
-These <font color="#4980e6"><b>glycosidic bonds are unique to mushrooms</b></font> and give its beta glucans the capability to suppress and prevent cancerous tumors.
-
-![alt-text-1](/assets/img/betaglucan.jpg "betaglucan") 
-
+![alt-text-1](/assets/img/betaglucan2.jpg "betaglucan") 
 
 ## <font color="#E34000"><b>What are the attributes of a mushroom?</b></font>
 
