@@ -33,6 +33,11 @@ I took this course to acquire an understanding of the mathematical calculations 
    <li><b>PCA:</b> the most commonly used method to reduce the dimensions of a dataset.</li>
 </ul>
 
-## <font color="#E34000"><b>Mathematics in Machine Learning (by Coursera)</b></font>
+## <font color="#E34000"><b>Machine Learning A-Z (by Udemy)</b></font>
 
-For a deeper dive into everything that I learned from this course, take a look at this <a href="https://docs.google.com/presentation/d/1L71zkIscJ5ZZDIwhzWjfsHgV5wIZiNGNr852hXJgFSA/edit?usp=sharing">presentation</a>
+I took this course to learn about the use cases and implementations of many different types of machine learning algorithms. The course covered several data preprocessing steps, along with many regression, classification, clustering, and association rule learning algorithms. I also learned about more advanced forms of machine learning, such as reinforcement learning, natural language processing, and deep learning. The course then went over dimensionality reduction algorithms such as PCA, techniques to select a model, and lastly, a brief look into ensemble learning through XGBoost. 
+
+
+I will be implementing many of the data preprocessing techniques I learned, since my dataset has categorical variables and missing values. I learned how to implement the algorithms I chose for my project--Random Forest, Logistic Regression, and K-Nearest Neighbors--and developed a more profound understanding of binary classifiers. The course opened my eyes to how clustering would be insightful for my dataset and how it would add an another facet of originality to my project. I also learned performance evaluation techniques that I will be using as my dependent variables, which are confusion matrices and the Cumulative Accuracy Profile. 
+
+For a deep dive into everything that I learned from this course, take a look at this <a href="https://docs.google.com/presentation/d/1L71zkIscJ5ZZDIwhzWjfsHgV5wIZiNGNr852hXJgFSA/edit?usp=sharing">presentation.</a>
