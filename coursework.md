@@ -12,15 +12,17 @@ I took this course to acquire an understanding of the mathematical calculations 
    <li>Einstein Summation Convention</li>
    <li><b>Gram Schmidt Process</b> with coding assignment</li>
    <li><b>Eigenvectors</b> and <b>PageRank</b> algorithm with coding assignment<li>
-</ul>   
+</ul> 
+
 <b>Multivariate Calculus:</b>   
-   <ul>
+<ul>
    <li><b>Derivatives</b>: Jacobian, Hessian, Maclaurin Series, Taylor Series</li>
    <li>How <b>back propagation</b> relates to neural networks with coding assignment</li>
    <li>Newton-Raphson Method</li>
    <li><b>Gradient Descent</b> with coding assignment</li>
    <li>Mathematics behind <b>Simple Linear Regression</b></li>
-</ul> 
+</ul>
+ 
 <b>Principal Component Analysis (PCA):</b>
 <ul>
    <li><b>Statistics</b> of datasets</li>
