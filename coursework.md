@@ -31,4 +31,8 @@ I took this course to acquire an understanding of the mathematical calculations 
    <li>Inner products</li>
    <li>Orthogonal <b>projections</b></li>
    <li><b>PCA:</b> the most commonly used method to reduce the dimensions of a dataset.</li>
-</ul>   
+</ul>
+
+## <font color="#E34000"><b>Mathematics in Machine Learning (by Coursera)</b></font>
+
+For a deeper dive into everything that I learned from this course, take a look at this <a href="https://docs.google.com/presentation/d/1L71zkIscJ5ZZDIwhzWjfsHgV5wIZiNGNr852hXJgFSA/edit?usp=sharing">presentation</a>
