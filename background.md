@@ -4,7 +4,6 @@ layout: page
 ![alt-text-1](/assets/img/Background4.png "title") 
 
 ## <font color="#E34000"><b>What are "gilled" mushrooms?</b></font>
-
 *to address a common misconception, they are indeed <b>gilled</b> mushrooms and <u>not grilled</u> mushrooms.*
 <ul>
   <li><b>Agaricaceae</b> is the family of fungi containing gilled mushrooms.</li>
@@ -20,12 +19,7 @@ A toxic mushroom contains at least one of the following seven toxic chemicals: <
 ![alt-text-1](/assets/img/Beta glucan3.jpeg "betaglucan") 
 
 ## <font color="#E34000"><b>What are the attributes of a mushroom?</b></font>
-
-Mushroom caps typically come in <font color="#4980e6"><b>six shapes</b></font> and <font color="#4980e6"><b>four</b></font> textures:
-<p float="left">
-   <img src="/assets/img/shape2.jpg" width="300" />
-   <img src="/assets/img/textures.jpg" width="300" />
-</p>
+![alt-text-1](/assets/img/attributes.png "title") 
 
 
 
