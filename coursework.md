@@ -28,8 +28,7 @@ I took this course to acquire an understanding of the mathematical calculations 
 <b>Principal Component Analysis (PCA):</b>
 <ul>
    <li><b>Statistics</b> of datasets</li>
-   <li></li>
    <li>Inner products</li>
    <li>Orthogonal <b>projections</b></li>
-   <li><b>PCA:</b> the most commonly used method to reduce the dimensions of a dataset.<li>
+   <li><b>PCA:</b> the most commonly used method to reduce the dimensions of a dataset.</li>
 </ul>   
