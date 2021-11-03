@@ -3,8 +3,7 @@ layout: page
 ---
 ![alt-text-1](/assets/img/Background4.png "title") 
 
-## <font color="#E34000"><b>What are "gilled" mushrooms?</b></font>
-*to address a common misconception, they are indeed <b>gilled</b> mushrooms and <u>not grilled</u> mushrooms.*
+## <font color="#E34000"><b>What are gilled mushrooms?</b></font>
 <ul>
   <li><b>Agaricaceae</b> is the family of fungi containing gilled mushrooms.</li>
   <li><b>All</b> mushrooms we know of are <b>gilled</b> mushrooms, <u>except</u> chanterelles.</li>
