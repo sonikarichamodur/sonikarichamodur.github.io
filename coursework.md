@@ -3,7 +3,7 @@ layout: page
 ---
 ![alt-text-1](/assets/img/Coursework.png "title")
 
-## <font color="#E34000"><b>Mathematics in Machine Learning (by Coursera)</b></font>
+## <font color="#E34000"><b>Mathematics for Machine Learning (by Coursera)</b></font>
 <p>
 I took this course to acquire an understanding of the mathematical calculations and transformations that occur behind the scenes of the code for a machine learning algorithm. The course had three parts where I learned the following:
 </p>
