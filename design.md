@@ -18,26 +18,31 @@ Above is a portion of how the dataset is set up, the <b>class</b> column being t
 
 <font color="#E34000"><b>Preprocessing requirements</b></font>
 
-- Handle <u>missing data</u> of stalk-root feature using imputation or data discretization.
+- Handle <u>missing data</u> of stalk-root feature by making missing values its own category in the stalk root feature. 
 - Encode <u>categorical data</u> using one-hot encoding.
-- <u>Split data</u> into training and test sets (starting with 80:20 training:testing split)
-- Feature scaling using standardization
+- Use the <u>Chi-Square test for Independence</u> to conduct feature selection
 
-## <font color="#E34000"><b>Step 2: Train binary classifiers</b></font>
-- <b>Random Forest</b>: starting value for the number of trees hyperparameter is 100
-- <b>Logistic Regression</b>: no hyperparameters to set
-- <b>K-Nearest Neighbors</b>: starting value for the k hyperparameter is 80
-80 is the square root of the number of instances in the training set, assuming the 80:20 ratio. 
+## <font color="#E34000"><b>Step 2: Overfitting Mitigation</b></font>
+K fold cross validation was used, with the stratified variant in particular. Due to this implementation, it will take longer to run the model, but since this dataset is not very large, it should be fine. 
 
+Why stratified?
+It will retain the percentage of samples for each class when implemented to make the splits. It would not be good to have one group with too many red mushrooms, for example.
 
-## <font color="#E34000"><b>Step 3: Evaluate classification models' performance</b></font>
+## <font color="#E34000"><b>Step 3: Train binary classifiers</b></font>
 
-- Confusion matrices for each binary classifier
-- Accuracy rate determined from Cumulative Accuracy Profile for each binary classifier
+- <b>Logistic Regression</b>
+- <b>Naive Bayes</b>
+- <b>Support Vector Machine</b>
+
+The evaluation metrics will be:
+
+- Accuracy: percentage of correct predictions
+- Precision: Rate of correctly predicting toxic mushrooms
+- Recall: Rate of correctly predicting edible mushrooms 
 
 ## <font color="#E34000"><b>Step 4: Conduct clustering analysis</b></font>
 
-- <b>k-means</b> clustering: implement the Elbow Method to find the number of clusters hyperparameter
-- <b>Hierarchical</b> clustering: no hyperparameters to set
+ Current plan is to use <b>k-modes</b> clustering. 
+
 
 
